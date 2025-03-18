@@ -23,7 +23,7 @@ A simple and intuitive to-do application built with React and Node.js.
 
 ### Project 2: Machine Learning Model for Predicting House Prices
 A machine learning model that predicts house prices based on various features using Python and scikit-learn.
-- [Repository](https://github.com/habiutomo/house-price-prediction)
+- [Repository](https://github.com/habiutomo/HousePricePredictior)
 
 ### Project 3: Personal Portfolio Website
 A personal portfolio website to showcase my projects and skills, built with HTML, CSS, and JavaScript.
