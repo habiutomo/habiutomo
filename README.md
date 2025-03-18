@@ -27,7 +27,7 @@ A machine learning model that predicts house prices based on various features us
 
 ### Project 3: Personal Portfolio Website
 A personal portfolio website to showcase my projects and skills, built with HTML, CSS, and JavaScript.
-- [Repository](https://github.com/habiutomo/portfolio-website)
+- [Repository](https://github.com/habiutomo/portfolio)
 
 ## Get in Touch
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/habiutomo) or [Twitter](https://twitter.com/habiutomo).
