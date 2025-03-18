@@ -5,7 +5,7 @@ I'm a passionate developer with a keen interest in web development, data science
 
 - 🌱 I’m currently learning advanced topics in machine learning and cloud computing.
 - 💼 I'm open to collaborating on interesting projects and innovative ideas.
-- 📫 How to reach me: [habiutomo@gmail.com](mailto:habiutomo@gmail.com)
+- 📫 How to reach me: [habizinnia@gmail.com](mailto:habizinnia@gmail.com)
 - ⚡ Fun fact: I enjoy playing chess and hiking in my free time.
 
 ## Skills
