@@ -19,7 +19,7 @@ Here are a few projects I've worked on recently:
 
 ### Project 1: Web-based To-Do Application
 A simple and intuitive to-do application built with React and Node.js.
-- [Repository](https://github.com/habiutomo/todo-app)
+- [Repository](https://github.com/habiutomo/servercepat.cloud_todo)
 
 ### Project 2: Machine Learning Model for Predicting House Prices
 A machine learning model that predicts house prices based on various features using Python and scikit-learn.
