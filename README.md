@@ -17,8 +17,6 @@ I'm a passionate developer with a keen interest in web development, data science
 ## Projects
 Here are a few projects I've worked on recently:
 
-All projects must be down payment or DP on BCA HABI UTOMO 7445463876
-
 ### Project 1: Web-based To-Do Application
 A simple and intuitive to-do application built with React and Node.js.
 - [Repository](https://github.com/habiutomo/servercepat.cloud_todo)
@@ -35,3 +33,5 @@ A personal portfolio website to showcase my projects and skills, built with HTML
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/habiutomo) or [Twitter](https://twitter.com/habiutomo).
 
 Let's connect and create something amazing together! 🚀
+
+All projects must be down payment or DP on BCA HABI UTOMO 7445463876
